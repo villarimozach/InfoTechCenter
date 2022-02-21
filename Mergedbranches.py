@@ -1,13 +1,19 @@
-#WELCOME BRANCH
+# programmer Zachary Villarimo
+# Date: 2.21.2022
+# Verson: 1.1
+
+# Libraries Imported Here
+# Welcome Branch
 # Code Name - Hornet
 from time import sleep #Print to one line with time delay between prints
+import random
 print("\033[1;34m Welcome To InfoTechCenter  \n")
 sleep(1)
 print("\033[1;34m Hornet's Operating System Booting Up  \n")
 
 
 #GAS BRANCH
-import random
+
 
 # Gas Level Function
 def gasLevelGauge():
